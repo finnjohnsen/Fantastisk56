@@ -5,7 +5,7 @@
         "Description": "",
         "Modules": [
 		{
-			"Name": "Fantastisk56",
+			"Name": "FantastiskMain",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
